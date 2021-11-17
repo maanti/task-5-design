@@ -1,0 +1,15 @@
+{
+  "name": "task-5-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node src/test/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-validator": "^5.1.17"
+  }
+}
